@@ -2,8 +2,8 @@
 
 ## Parameter
 
-- **Intended reader**: Mathematical background, Writing expectations.
-- **Writing task**: Revision or fresh writing, other specifications.
+- **Intended reader**: Mathematical background, writing expectations.
+- **Writing task**:  What to prepare or revise, the format and length.
 
 ## Instructions
 
